@@ -1,6 +1,6 @@
 # Blockchain-based Ledger System (module_18_challenge)
 
-A Jupyter notebook that contains data preparation, analysis, and visualizations for time series data.
+A python app that demostrates a blockchain based ledger system with a web-based ui.
 
 ---
 
